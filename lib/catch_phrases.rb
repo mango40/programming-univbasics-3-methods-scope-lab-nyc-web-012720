@@ -4,5 +4,6 @@ def mario
 end
 
 def toadstool
-  puts $status
+  def mario = status"
+  puts status
 end
